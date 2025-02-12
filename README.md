@@ -7,5 +7,3 @@ New text
 Kurylenko Artem
 <br/>
 Melnychenko Artem
-<br/>
-52
